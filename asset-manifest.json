@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/www.itwentlikepod.com/static/css/main.37ebdb32.chunk.css",
-    "main.js": "/www.itwentlikepod.com/static/js/main.282e1f6b.chunk.js",
-    "main.js.map": "/www.itwentlikepod.com/static/js/main.282e1f6b.chunk.js.map",
-    "runtime-main.js": "/www.itwentlikepod.com/static/js/runtime-main.d666dddb.js",
-    "runtime-main.js.map": "/www.itwentlikepod.com/static/js/runtime-main.d666dddb.js.map",
-    "static/js/2.afcd018d.chunk.js": "/www.itwentlikepod.com/static/js/2.afcd018d.chunk.js",
-    "static/js/2.afcd018d.chunk.js.map": "/www.itwentlikepod.com/static/js/2.afcd018d.chunk.js.map",
-    "index.html": "/www.itwentlikepod.com/index.html",
-    "precache-manifest.d7dc630c5568d3292eb1fcbea68cdcd3.js": "/www.itwentlikepod.com/precache-manifest.d7dc630c5568d3292eb1fcbea68cdcd3.js",
-    "service-worker.js": "/www.itwentlikepod.com/service-worker.js",
-    "static/css/main.37ebdb32.chunk.css.map": "/www.itwentlikepod.com/static/css/main.37ebdb32.chunk.css.map",
-    "static/js/2.afcd018d.chunk.js.LICENSE.txt": "/www.itwentlikepod.com/static/js/2.afcd018d.chunk.js.LICENSE.txt"
+    "main.css": "/www.itwentlikepodcast.com/static/css/main.37ebdb32.chunk.css",
+    "main.js": "/www.itwentlikepodcast.com/static/js/main.bbb12ba0.chunk.js",
+    "main.js.map": "/www.itwentlikepodcast.com/static/js/main.bbb12ba0.chunk.js.map",
+    "runtime-main.js": "/www.itwentlikepodcast.com/static/js/runtime-main.3e324366.js",
+    "runtime-main.js.map": "/www.itwentlikepodcast.com/static/js/runtime-main.3e324366.js.map",
+    "static/js/2.afcd018d.chunk.js": "/www.itwentlikepodcast.com/static/js/2.afcd018d.chunk.js",
+    "static/js/2.afcd018d.chunk.js.map": "/www.itwentlikepodcast.com/static/js/2.afcd018d.chunk.js.map",
+    "index.html": "/www.itwentlikepodcast.com/index.html",
+    "precache-manifest.507bce546d2b44d9d6f8bed007bc0c1a.js": "/www.itwentlikepodcast.com/precache-manifest.507bce546d2b44d9d6f8bed007bc0c1a.js",
+    "service-worker.js": "/www.itwentlikepodcast.com/service-worker.js",
+    "static/css/main.37ebdb32.chunk.css.map": "/www.itwentlikepodcast.com/static/css/main.37ebdb32.chunk.css.map",
+    "static/js/2.afcd018d.chunk.js.LICENSE.txt": "/www.itwentlikepodcast.com/static/js/2.afcd018d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d666dddb.js",
+    "static/js/runtime-main.3e324366.js",
     "static/js/2.afcd018d.chunk.js",
     "static/css/main.37ebdb32.chunk.css",
-    "static/js/main.282e1f6b.chunk.js"
+    "static/js/main.bbb12ba0.chunk.js"
   ]
 }
