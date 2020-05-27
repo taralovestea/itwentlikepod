@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/itwentlikepod/static/css/main.37ebdb32.chunk.css",
+    "main.js": "/itwentlikepod/static/js/main.64d950b5.chunk.js",
+    "main.js.map": "/itwentlikepod/static/js/main.64d950b5.chunk.js.map",
+    "runtime-main.js": "/itwentlikepod/static/js/runtime-main.b3657233.js",
+    "runtime-main.js.map": "/itwentlikepod/static/js/runtime-main.b3657233.js.map",
+    "static/js/2.afcd018d.chunk.js": "/itwentlikepod/static/js/2.afcd018d.chunk.js",
+    "static/js/2.afcd018d.chunk.js.map": "/itwentlikepod/static/js/2.afcd018d.chunk.js.map",
+    "index.html": "/itwentlikepod/index.html",
+    "precache-manifest.37e88cf19cbc47cc27c9572b7864b63b.js": "/itwentlikepod/precache-manifest.37e88cf19cbc47cc27c9572b7864b63b.js",
+    "service-worker.js": "/itwentlikepod/service-worker.js",
+    "static/css/main.37ebdb32.chunk.css.map": "/itwentlikepod/static/css/main.37ebdb32.chunk.css.map",
+    "static/js/2.afcd018d.chunk.js.LICENSE.txt": "/itwentlikepod/static/js/2.afcd018d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3657233.js",
+    "static/js/2.afcd018d.chunk.js",
+    "static/css/main.37ebdb32.chunk.css",
+    "static/js/main.64d950b5.chunk.js"
+  ]
+}
